@@ -67,3 +67,12 @@ button:hover {
 li {
     cursor: pointer;
 }
+
+p {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    margin-right: 40px;
+    margin-left: 40px;
+}
